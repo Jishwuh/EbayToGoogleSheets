@@ -50,6 +50,12 @@ SHIPDATE	ITEM	ORDER #	TRACKING #	GROSS	COST	SHIPPING	REFUND	RETURN LABEL
 * Change the `INSERTDATE` or `INSERTCOST` placeholders directly in the code if desired.
 * Modify CSS in `popup.html` to adjust the popup appearance.
 
+## End Product
+* This is how it should look after inserting the cells into your sheets!
+
+<img width="2749" height="126" alt="image" src="https://github.com/user-attachments/assets/294b63c2-5849-43a0-bb31-ce196abb387d" />
+
+
 ## License
 
 Licensed under MIT. Feel free to modify and share!
